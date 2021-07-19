@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hi everyone!
+
+I am new a wild and free person who loves to explore my mind
